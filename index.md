@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Raymond Johnson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Raymond Johnson
+Mathematics educator
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="raymond@mathed.net">raymond@mathed.net</a>
+| <a href="https://raymondjohnson.me">raymondjohnson.me</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Mathematics Content Specialist, Colorado Department of Education
 
 ### Specialized in
 
