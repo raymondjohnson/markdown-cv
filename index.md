@@ -6,86 +6,190 @@ title: Raymond Johnson's CV
 Mathematics educator
 
 <div id="webaddress">
-<a href="raymond@mathed.net">raymond@mathed.net</a>
-| <a href="https://raymondjohnson.me">raymondjohnson.me</a>
+<a href="mailto:raymond@mathed.net">raymond@mathed.net</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/raymondjohnson">raymondjohnson</a>
+|
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/MathEdnet">MathEdnet</a>
 </div>
 
 
 ## Currently
 
-Mathematics Content Specialist, Colorado Department of Education
+I'm the Mathematics Content Specialist at the [Colorado Department of Education)(https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, through being a communicator and by serving our professional mathematics teaching and leadership organizations.
 
-### Specialized in
+## Employment
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2016-` 
+__Colorado Department of Education__ Mathematics Content Specialist
 
+`2010-2016`
+__University of Colorado Boulder__ Graduate Student Assistant (including multiple teaching and research assistantships)
 
-### Research interests
+`2006-2009`
+__Park County School District Re-2__ High School Mathematics Teacher
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`2003-2006`
+__Fremont School District Re-2__ High School Mathematics Teacher
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009-2018`
+__University of Colorado Boulder__ Curriculum & Instruction Ph.D. (advisor: David C. Webb; project PIs: Tamara Sumner and William Penuel). My thesis was titled _Designing for Consensus and the Standards for Mathematical Practice_ and is available through the [CU Scholar repository](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f).
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2000-2002`
+__University of Northern Iowa__ Graduate Program Certificate in GIS and Cartography
 
-- Sizar
+`1996-1999`
+__University of Northern Iowa__ BA Mathematics-Teaching
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Presentations
 
-- Fellow
+### Tutorials
 
+`2014`
+WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
 
+### Talks
 
-## Awards
+`2015`
+EdinbR: The Edinburgh R usergroup (_various_)
 
-`2012`
-President, *Royal Society*, London, UK
+MRC IGMM research seminars and section meetings (_various_)
 
-Associate, *French Academy of Science*, Paris, France
+`2014`
+Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
 
+blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
+
+### Posters
+
+`2015`
+_Keystone Epigenomics_ (Keystone CO, USA)
+
+`2014`
+_ISMB_ (Boston MA, USA)
+
+_Genome informatics_ (Cambridge, UK)
+
+_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
+
+`2013`
+_Genome informatics_ (CSHL NY, USA)
+
+_EpiGeneSys_ (Cambridge, UK)
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- ### Journals -->
+`2017`
+Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6: e28590.
 
-### Journals
+Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2016`
+Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
 
-`1669`
-Lectiones opticæ.
+`2015`
+__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
 
-etc. etc. etc.
+Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
 
-### Patents
+`2013`
+__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2011`
+Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
+
+## Non-academic
+
+`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
+
+`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+
+## Technical skills
+
+* R
+* Python
+* Javascript (incl. Typescript, Angular)
+* Go
+* HTML and CSS
+* LaTeX
+* Bash
+* Git / Mercurial
+* UNIX
+* Cluster computing
+* Docker
+* AWS
+
+## Areas of expertise
+
+* Bioinformatics
+* Statistics
+* Machine learning
+* Data visualisation
+* Software development
+* NGS and variant calling
+
+## Projects
+
+### github
+
+My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
+
+### blog
+
+I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
+
+### EdinbR
+
+I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+
+### datarea
+
+I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+
+## Awards
+
+MRC Capacity building scholarship (PhD fees + enhanced stipend)
+
+MRC Full postgraduate scholarship (MSc fees + stipend)
+
+ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
+
+Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
+
+Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
+
+Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
+
+Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+
+## Placements
+
+`2010-11`
+__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
+Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
 
 
-## Occupation
+## Links
 
-`1600`
-__Royal Mint__, London
+<!-- fa are fontawesome, ai are academicons -->
+* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
+* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
+* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
+* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
+* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
+* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
 
-- Warden
-- Minted coins
+## References
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Available on request.
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
