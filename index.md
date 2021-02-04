@@ -16,7 +16,7 @@ Mathematics educator
 
 ## Currently
 
-I'm the Mathematics Content Specialist at the [Colorado Department of Education)(https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, through being a communicator and by serving our professional mathematics teaching and leadership organizations.
+I'm the Mathematics Content Specialist at the [Colorado Department of Education](https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, through being a communicator and by serving our professional mathematics teaching and leadership organizations.
 
 ## Employment
 
