@@ -24,7 +24,7 @@ I'm the Mathematics Content Specialist at the [Colorado Department of Education]
 __Colorado Department of Education__ Mathematics Content Specialist
 
 `2010-2016`
-__University of Colorado Boulder__ Graduate Student Assistant (including multiple teaching and research assistantships)
+__University of Colorado Boulder__ Graduate Student Assistant
 
 `2006-2009`
 __Park County School District Re-2__ High School Mathematics Teacher
